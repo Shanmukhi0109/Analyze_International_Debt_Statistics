@@ -1,1 +1,17 @@
-# Analyze_International_Debt_Statistics
+The World Bank is the organization that provides debt to countries.
+
+Here I analyzed international debt data collected by The World Bank and SQL queries are written to answer interesting questions about debts owed by countries.
+
+We are going to find the answers to questions like:
+
+What is the total amount of debt that is owed by the countries listed in the dataset? Which country owns the maximum amount of debt and what does that amount look like? What is the average amount of debt owed by countries across different debt indicators?
+
+Final Insights:
+
+There are total 124 countries and 25 distinct debt indicators.
+The total amount of debt owed by countries is 3079734000000 USDS.
+China is the country with high debt of 285793494734 USD and maximum debt of 96218620835 USD.
+In terms of Indicators DT.AMT.DLXF.CD(Principal repayments on external debt, long-term) and DT.AMT.DPNG.CD (Principal repayments on external debt, private nonguaranteed (PNG)) have average debt of 5904868401 and 5161194333 USD respectively.
+While the other indicators have huge difference in amount of debts from the above indicators.
+While China is the country with high debt in Principal repayments on external debt, long-term.
+There are total 6 debt indicators which are listed in all countries.
